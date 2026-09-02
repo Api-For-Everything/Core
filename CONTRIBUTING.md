@@ -1,0 +1,5 @@
+- OpenUtils is an open-source project.
+- Contributions are welcome.
+- Contributors should work on their own feature/fix branches.
+- Changes should eventually be submitted through Pull Requests.
+- More detailed contribution guidelines will be added later.
